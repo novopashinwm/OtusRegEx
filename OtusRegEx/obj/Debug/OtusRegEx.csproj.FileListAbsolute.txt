@@ -1,0 +1,6 @@
+C:\Users\5567\RiderProjects\OtusRegEx\OtusRegEx\bin\Debug\OtusRegEx.exe
+C:\Users\5567\RiderProjects\OtusRegEx\OtusRegEx\bin\Debug\OtusRegEx.pdb
+C:\Users\5567\RiderProjects\OtusRegEx\OtusRegEx\obj\Debug\OtusRegEx.csprojAssemblyReference.cache
+C:\Users\5567\RiderProjects\OtusRegEx\OtusRegEx\obj\Debug\OtusRegEx.csproj.CoreCompileInputs.cache
+C:\Users\5567\RiderProjects\OtusRegEx\OtusRegEx\obj\Debug\OtusRegEx.exe
+C:\Users\5567\RiderProjects\OtusRegEx\OtusRegEx\obj\Debug\OtusRegEx.pdb
